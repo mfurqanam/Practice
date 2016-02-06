@@ -1,1 +1,2 @@
 NewFile..
+Give Extension txt of file B.
